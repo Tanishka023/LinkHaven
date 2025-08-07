@@ -1,5 +1,4 @@
-🔗 LinkHaven
-LinkHaven is a modern, minimalist bookmark manager that helps you save, organize, and access your favorite links effortlessly. Built with React.js, Supabase, and Tailwind CSS, it provides a sleek UI with features like markdown support, tag-based filtering, and persistent storage.
+🔗 LinkHaven is a modern, minimalist bookmark manager that helps you save, organize, and access your favorite links effortlessly. Built with React.js, Supabase, and Tailwind CSS, it provides a sleek UI with features like markdown support, tag-based filtering, and persistent storage.
 
 
 🚀 Features
@@ -11,12 +10,10 @@ LinkHaven is a modern, minimalist bookmark manager that helps you save, organize
 
 🧾 Markdown Support – See rich previews of saved notes using markdown
 
-🌙 Dark Mode – Comfortable viewing in any lighting
-
 🧼 Minimal UI – Clean, distraction-free design
 
 🛠️ Tech Stack
-Frontend: Next.js 14, Tailwind CSS
+Frontend: React.js 14, Tailwind CSS
 
 Backend: Supabase (Auth + Database)
 
