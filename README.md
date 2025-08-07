@@ -22,3 +22,5 @@ State Management: React Hooks (useState, useEffect)
 Icons: Lucide Icons
 
 Markdown: react-markdown
+![WhatsApp Image 2025-08-07 at 19 24 43_623b37a6](https://github.com/user-attachments/assets/571ab677-cd98-4515-822b-5f14d2627b5c)
+![WhatsApp Image 2025-08-07 at 19 33 53_1e0cfae0](https://github.com/user-attachments/assets/86624822-7804-4397-bc70-cf2007577a16)
