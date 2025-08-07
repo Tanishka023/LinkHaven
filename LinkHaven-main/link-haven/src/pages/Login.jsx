@@ -1,5 +1,5 @@
 import { GoogleLogin } from '@react-oauth/google';
-import jwt_decode from 'jwt-decode';
+import { jwtDecode } from 'jwt-decode';
 
 const Login = () => {
   return (
@@ -7,7 +7,7 @@ const Login = () => {
       <GoogleLogin
         onSuccess={(credentialResponse) => {
           if (credentialResponse.credential) {
-            const decoded = jwt_decode(credentialResponse.credential);
+            const decoded = jwtDecode(credentialResponse.credential);
             console.log('Decoded Token:', decoded);
           } else {
             console.log('No credential found');
